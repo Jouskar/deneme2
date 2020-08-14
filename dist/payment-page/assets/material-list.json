@@ -1,0 +1,437 @@
+[
+    {
+        "Kodu": "MOD-MC-11 ",
+        "code": "MC-11 ",
+        "title": "MC-11 Sayaç"
+    },
+    {
+        "Kodu": "MOD-MC-12-1 ",
+        "code": "MC-12-1 ",
+        "title": "MC-12-1 Sol DC Motor"
+    },
+    {
+        "Kodu": "MOD-MC-12-2 ",
+        "code": "MC-12-2 ",
+        "title": "MC-12-2 Sağ DC Motor"
+    },
+    {
+        "Kodu": "MOD-MC-12-3 ",
+        "code": "MC-12-3 ",
+        "title": "MC-12-3 Turbo DC Motor"
+    },
+    {
+        "Kodu": "MOD-MC-13-1 ",
+        "code": "MC-13-1 ",
+        "title": "MC-13-1 Kablolu LED - Kırmızı"
+    },
+    {
+        "Kodu": "MOD-MC-13-3 ",
+        "code": "MC-13-3 ",
+        "title": "MC-13-3 Kablolu LED - Mavi"
+    },
+    {
+        "Kodu": "MOD-MC-14 ",
+        "code": "MC-14 ",
+        "title": "MC-14 Servo Motor"
+    },
+    {
+        "Kodu": "MOD-MC-15 ",
+        "code": "MC-15 ",
+        "title": "MC-15 Sıralı Led"
+    },
+    {
+        "Kodu": "MOD-MC-16 ",
+        "code": "MC-16 ",
+        "title": "MC-16 Fan"
+    },
+    {
+        "Kodu": "MOD-MC-17 ",
+        "code": "MC-17 ",
+        "title": "MC-17 Zil"
+    },
+    {
+        "Kodu": "MOD-ME-11 ",
+        "code": "ME-11 ",
+        "title": "ME-11 USB Güç"
+    },
+    {
+        "Kodu": "MOD-ME-12 ",
+        "code": "ME-12 ",
+        "title": "ME-12 Güç"
+    },
+    {
+        "Kodu": "MOD-ME-13 ",
+        "code": "ME-13 ",
+        "title": "ME-13 Powerbank"
+    },
+    {
+        "Kodu": "MOD-ME-14 ",
+        "code": "ME-14 ",
+        "title": "ME-14 2A Powerbank"
+    },
+    {
+        "Kodu": "MOD-MG-11 ",
+        "code": "MG-11 ",
+        "title": "MG-11 Kızaklı DİM"
+    },
+    {
+        "Kodu": "MOD-MG-12 ",
+        "code": "MG-12 ",
+        "title": "MG-12 Buton"
+    },
+    {
+        "Kodu": "MOD-MG-14 ",
+        "code": "MG-14 ",
+        "title": "MG-14 Mesafe Algılayıcı"
+    },
+    {
+        "Kodu": "MOD-MG-14-1 ",
+        "code": "MG-14-1 ",
+        "title": "MG-14-1 Mesafe Algılayıcı Gövde"
+    },
+    {
+        "Kodu": "MOD-MG-14-2 ",
+        "code": "MG-14-2 ",
+        "title": "MG-14-2 Mesafe Algılayıcı Sensör"
+    },
+    {
+        "Kodu": "MOD-MG-15 ",
+        "code": "MG-15 ",
+        "title": "MG-15 Hareket Algılayıcı"
+    },
+    {
+        "Kodu": "MOD-MG-16 ",
+        "code": "MG-16 ",
+        "title": "MG-16 Işık Algılayıcı"
+    },
+    {
+        "Kodu": "MOD-MG-17 ",
+        "code": "MG-17 ",
+        "title": "MG-17 Ses Algılayıcı"
+    },
+    {
+        "Kodu": "MOD-MG-18 ",
+        "code": "MG-18 ",
+        "title": "MG-18 Uzaktan Kumanda"
+    },
+    {
+        "Kodu": "MOD-ML-11 ",
+        "code": "ML-11 ",
+        "title": "ML-11 Bağlantı Kablosu "
+    },
+    {
+        "Kodu": "MOD-ML-11-1 ",
+        "code": "ML-11-1 ",
+        "title": "ML-11-1 Bağlantı Kablosu Giriş"
+    },
+    {
+        "Kodu": "MOD-ML-11-2 ",
+        "code": "ML-11-2 ",
+        "title": "ML-11-2 Bağlantı Kablosu Çıkış"
+    },
+    {
+        "Kodu": "MOD-ML-12 ",
+        "code": "ML-12 ",
+        "title": "ML-12 Dağıtıcı "
+    },
+    {
+        "Kodu": "MOD-ML-12-1 ",
+        "code": "ML-12-1 ",
+        "title": "ML-12-1 Dağıtıcı Giriş"
+    },
+    {
+        "Kodu": "MOD-ML-12-2 ",
+        "code": "ML-12-2 ",
+        "title": "ML-12-2 Dağıtıcı Çıkış"
+    },
+    {
+        "Kodu": "MOD-ML-13 ",
+        "code": "ML-13 ",
+        "title": "ML-13 Sinyal Sabitleyici"
+    },
+    {
+        "Kodu": "MOD-ML-14 ",
+        "code": "ML-14 ",
+        "title": "ML-14 Sinyal Dönüştürücü"
+    },
+    {
+        "Kodu": "MOD-ML-15 ",
+        "code": "ML-15 ",
+        "title": "ML-15 Ve/Veya Kapısı"
+    },
+    {
+        "Kodu": "MOD-ML-16 ",
+        "code": "ML-16 ",
+        "title": "ML-16 Kodlama Modülü"
+    },
+    {
+        "Kodu": "MOD-ML-17 ",
+        "code": "ML-17 ",
+        "title": "ML-17 Sinyal İletici"
+    },
+    {
+        "Kodu": "SET-001-001",
+        "code": "SH-001-00",
+        "title": "Robotik Sanat Seti"
+    },
+    {
+        "Kodu": "SET-001-01",
+        "code": "SH-001-01",
+        "title": "Robotik Sanat Seti - Türkçe"
+    },
+    {
+        "Kodu": "SET-001-02",
+        "code": "SH-001-02",
+        "title": "Robotik Sanat Seti - İngilizce"
+    },
+    {
+        "Kodu": "SET-001-03",
+        "code": "SH-001-03",
+        "title": "Robotik Sanat Seti - İtalyanca"
+    },
+    {
+        "Kodu": "SET-001-04",
+        "code": "SH-001-04",
+        "title": "Robotik Sanat Seti - İspanyolca"
+    },
+    {
+        "Kodu": "SET-001-05",
+        "code": "SH-001-05",
+        "title": "Robotik Sanat Seti - Almanca"
+    },
+    {
+        "Kodu": "SET-001-06",
+        "code": "SH-001-06",
+        "title": "Robotik Sanat Seti - Arapça"
+    },
+    {
+        "Kodu": "SET-001-07",
+        "code": "SH-001-07",
+        "title": "Robotik Sanat Seti - Rusça"
+    },
+    {
+        "Kodu": "SET-001-08",
+        "code": "SH-001-08",
+        "title": "Robotik Sanat Seti - Fransızca"
+    },
+    {
+        "Kodu": "SET-001-09",
+        "code": "SH-001-09",
+        "title": "Robotik Sanat Seti - Portekizce"
+    },
+    {
+        "Kodu": "SET-002-00",
+        "code": "SH-002-00",
+        "title": "Mucit Seti (Curiosity Kit)"
+    },
+    {
+        "Kodu": "SET-002-01",
+        "code": "SH-002-01",
+        "title": "Mucit Seti - Türkçe"
+    },
+    {
+        "Kodu": "SET-002-02",
+        "code": "SH-002-02",
+        "title": "Mucit Seti - İngilizce"
+    },
+    {
+        "Kodu": "SET-002-03",
+        "code": "SH-002-03",
+        "title": "Mucit Seti - İtalyanca"
+    },
+    {
+        "Kodu": "SET-002-04",
+        "code": "SH-002-04",
+        "title": "Mucit Seti - İspanyolca"
+    },
+    {
+        "Kodu": "SET-002-05",
+        "code": "SH-002-05",
+        "title": "Mucit Seti - Almanca"
+    },
+    {
+        "Kodu": "SET-002-06",
+        "code": "SH-002-06",
+        "title": "Mucit Seti - Arapça"
+    },
+    {
+        "Kodu": "SET-002-07",
+        "code": "SH-002-07",
+        "title": "Mucit Seti - Rusça"
+    },
+    {
+        "Kodu": "SET-002-08",
+        "code": "SH-002-08",
+        "title": "Mucit Seti - Fransızca"
+    },
+    {
+        "Kodu": "SET-002-09",
+        "code": "SH-002-09",
+        "title": "Mucit Seti - Portekizce"
+    },
+    {
+        "Kodu": "SET-003-00",
+        "code": "SH-003-00",
+        "title": "Kodlama Seti (Coding Kit)"
+    },
+    {
+        "Kodu": "SET-003-01",
+        "code": "SH-003-01",
+        "title": "Kodlama Seti - Türkçe"
+    },
+    {
+        "Kodu": "SET-003-02",
+        "code": "SH-003-02",
+        "title": "Kodlama Seti - İngilizce"
+    },
+    {
+        "Kodu": "SET-003-03",
+        "code": "SH-003-03",
+        "title": "Kodlama Seti - İtalyanca"
+    },
+    {
+        "Kodu": "SET-003-04",
+        "code": "SH-003-04",
+        "title": "Kodlama Seti - İspanyolca"
+    },
+    {
+        "Kodu": "SET-003-05",
+        "code": "SH-003-05",
+        "title": "Kodlama Seti - Almanca"
+    },
+    {
+        "Kodu": "SET-003-06",
+        "code": "SH-003-06",
+        "title": "Kodlama Seti - Arapça"
+    },
+    {
+        "Kodu": "SET-003-07",
+        "code": "SH-003-07",
+        "title": "Kodlama Seti - Rusça"
+    },
+    {
+        "Kodu": "SET-003-08",
+        "code": "SH-003-08",
+        "title": "Kodlama Seti - Fransızca"
+    },
+    {
+        "Kodu": "SET-003-09",
+        "code": "SH-003-09",
+        "title": "Kodlama Seti - Portekizce"
+    },
+    {
+        "Kodu": "SET-HA-00",
+        "code": "SH-006-00",
+        "title": "Havacılık Seti (Aviation Kit)"
+    },
+    {
+        "Kodu": "SET-HA-01",
+        "code": "SH-006-01",
+        "title": "Havacılık Seti - Türkçe"
+    },
+    {
+        "Kodu": "SET-HA-02",
+        "code": "SH-006-02",
+        "title": "Havacılık Seti - İngilizce"
+    },
+    {
+        "Kodu": "SET-HA-03",
+        "code": "SH-006-03",
+        "title": "Havacılık Seti - İtalyanca"
+    },
+    {
+        "Kodu": "SET-HA-04",
+        "code": "SH-006-04",
+        "title": "Havacılık Seti - İspanyolca"
+    },
+    {
+        "Kodu": "SET-HA-05",
+        "code": "SH-006-05",
+        "title": "Havacılık Seti - Almanca"
+    },
+    {
+        "Kodu": "SET-HA-06",
+        "code": "SH-006-06",
+        "title": "Havacılık Seti - Arapça"
+    },
+    {
+        "Kodu": "SET-HA-07",
+        "code": "SH-006-07",
+        "title": "Havacılık Seti - Rusça"
+    },
+    {
+        "Kodu": "SET-HA-08",
+        "code": "SH-006-08",
+        "title": "Havacılık Seti - Fransızca"
+    },
+    {
+        "Kodu": "SET-HA-09",
+        "code": "SH-006-09",
+        "title": "Havacılık Seti - Portekizce"
+    },
+    {
+        "Kodu": "SET-KE-00",
+        "code": "SH-005-00",
+        "title": "Keşif Seti (Discovery Kit)"
+    },
+    {
+        "Kodu": "SET-KE-01",
+        "code": "SH-005-01",
+        "title": "Keşif Seti - Türkçe"
+    },
+    {
+        "Kodu": "SET-KE-02",
+        "code": "SH-005-02",
+        "title": "Keşif Seti - İngilizce"
+    },
+    {
+        "Kodu": "SET-OA-00",
+        "code": "SH-005-03",
+        "title": "Otonom Araç Seti (Autonomous Car Kit)"
+    },
+    {
+        "Kodu": "SET-OA-01",
+        "code": "SH-005-04",
+        "title": "Otonom Araç Seti - Türkçe"
+    },
+    {
+        "Kodu": "SET-OA-02",
+        "code": "SH-005-05",
+        "title": "Otonom Araç Seti - İngilizce"
+    },
+    {
+        "Kodu": "SET-OA-03",
+        "code": "SH-005-06",
+        "title": "Otonom Araç Seti - İtalyanca"
+    },
+    {
+        "Kodu": "SET-OA-04",
+        "code": "SH-005-07",
+        "title": "Otonom Araç Seti - İspanyolca"
+    },
+    {
+        "Kodu": "SET-OA-05",
+        "code": "SH-005-08",
+        "title": "Otonom Araç Seti - Almanca"
+    },
+    {
+        "Kodu": "SET-OA-06",
+        "code": "SH-005-09",
+        "title": "Otonom Araç Seti - Arapça"
+    },
+    {
+        "Kodu": "SET-OA-07",
+        "code": "SH-005-10",
+        "title": "Otonom Araç Seti - Rusça"
+    },
+    {
+        "Kodu": "SET-OA-08",
+        "code": "SH-005-11",
+        "title": "Otonom Araç Seti - Fransızca"
+    },
+    {
+        "Kodu": "SH-005-12",
+        "code": "SH-005-12",
+        "title": "Otonom Araç Seti - Portekizce"
+    }
+]
